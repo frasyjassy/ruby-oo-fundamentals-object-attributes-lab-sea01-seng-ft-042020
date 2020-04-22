@@ -8,5 +8,7 @@ class Dog
     
     @name = name
     @breed = breed
+    
+    @@all << self
 
 end
