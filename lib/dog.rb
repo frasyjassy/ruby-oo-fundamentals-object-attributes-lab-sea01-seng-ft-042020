@@ -1,4 +1,7 @@
 class Dog
-  atter_accecor = 
+  atter_accecor = :name
+  atter_reader = :breed
+  
+  
 
 end
